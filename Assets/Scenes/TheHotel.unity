@@ -810,10 +810,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: OldRoom
       objectReference: {fileID: 0}
-    - target: {fileID: 5060203613043072291, guid: 52d963d99edf2404fa30db3001e0ade5, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
